@@ -1,7 +1,7 @@
 #include <iostream>
 #include <ctime>
 #include <string>
-#include<graphics.h>
+
 struct Number{
 
     int num1,num2,sum,extraCard;
